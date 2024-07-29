@@ -1,0 +1,22 @@
+var srcIndex = new Map(JSON.parse('[\
+["10_expressions",["",[],["10-expressions.rs"]]],\
+["11_ownership",["",[],["11-ownership.rs"]]],\
+["12_impl",["",[],["12-impl.rs"]]],\
+["13_vect",["",[],["13-vect.rs"]]],\
+["14_string",["",[],["14-string.rs"]]],\
+["15_advanced_match",["",[],["15-advanced-match.rs"]]],\
+["16_option",["",[],["16-option.rs"]]],\
+["17_docs",["",[],["17-docs.rs"]]],\
+["1_functions",["",[],["1-functions.rs"]]],\
+["2_basic_math",["",[],["2-basic-math.rs"]]],\
+["3_1_control_flow",["",[],["3_1-control-flow.rs"]]],\
+["3_control_flow",["",[],["3-control-flow.rs"]]],\
+["4_basic_match",["",[],["4-basic-match.rs"]]],\
+["5_loop",["",[],["5-loop.rs"]]],\
+["6_while",["",[],["6-while.rs"]]],\
+["7_enum",["",[],["7-enum.rs"]]],\
+["8_struct",["",[],["8-struct.rs"]]],\
+["9_tuples",["",[],["9-tuples.rs"]]],\
+["crash_course",["",[],["main.rs"]]]\
+]'));
+createSrcSidebar();

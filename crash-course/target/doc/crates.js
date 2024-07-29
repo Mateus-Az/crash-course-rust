@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["10_expressions","11_ownership","12_impl","13_vect","14_string","15_advanced_match","16_option","17_docs","1_functions","2_basic_math","3_1_control_flow","3_control_flow","4_basic_match","5_loop","6_while","7_enum","8_struct","9_tuples","crash_course"];

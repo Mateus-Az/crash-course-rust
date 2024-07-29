@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["main","show_id","show_quantity"],"struct":["Grocery"]};

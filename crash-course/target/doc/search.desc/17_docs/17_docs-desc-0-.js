@@ -1,0 +1,1 @@
+searchState.loadedDescShard("17_docs", 0, "Enum de cores\nReturns the argument unchanged.\nCalls <code>U::from(self)</code>.")
